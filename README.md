@@ -7,7 +7,7 @@ You have some errors, warnings, or alerts. If you are using reckless mode, turn 
 * WARNINGs: 0
 * ALERTS: 10
 
-Conversion time: 2.08 seconds.
+Conversion time: 2.004 seconds.
 
 
 Using this Markdown file:
@@ -20,27 +20,13 @@ Using this Markdown file:
 Conversion notes:
 
 * Docs to Markdown version 1.0β34
-* Thu Feb 16 2023 05:10:08 GMT-0800 (PST)
+* Thu Feb 16 2023 05:46:16 GMT-0800 (PST)
 * Source doc: EDA_docCaptstoneIV
 * Tables are currently converted to HTML tables.
 * This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server. NOTE: Images in exported zip file from Google Docs may not appear in  the same order as they do in your doc. Please check the images!
 
 ----->
 
-
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 10.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-<a href="#gdcalert2">alert2</a>
-<a href="#gdcalert3">alert3</a>
-<a href="#gdcalert4">alert4</a>
-<a href="#gdcalert5">alert5</a>
-<a href="#gdcalert6">alert6</a>
-<a href="#gdcalert7">alert7</a>
-<a href="#gdcalert8">alert8</a>
-<a href="#gdcalert9">alert9</a>
-<a href="#gdcalert10">alert10</a>
 
 
 ![alt_text](images/image1.png "image_tooltip")
@@ -49,9 +35,6 @@ Conversion notes:
 **TASK**
 
 **Exploratory Data Analysis on the Forbes Richest Athletes Dataset**
-
-
-
 
 
 ![alt_text](images/image2.jpg "image_tooltip")
@@ -87,9 +70,6 @@ I am going to create a new dataframe and first capitalise the 'Sport' feature.  
 <table>
   <tr>
    <td>
-
-
-
 <img src="images/image3.png" width="" alt="alt_text" title="image_tooltip">
 
    </td>
@@ -107,10 +87,6 @@ It’s interesting to see the significant dips and rises in the periods spanning
 <table>
   <tr>
    <td>
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 <img src="images/image4.png" width="" alt="alt_text" title="image_tooltip">
 
    </td>
@@ -126,10 +102,6 @@ It’s interesting to see the significant dips and rises in the periods spanning
 <table>
   <tr>
    <td>
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 <img src="images/image5.png" width="" alt="alt_text" title="image_tooltip">
 
    </td>
@@ -145,10 +117,6 @@ It’s interesting to see the significant dips and rises in the periods spanning
 <table>
   <tr>
    <td>
-
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 <img src="images/image6.png" width="" alt="alt_text" title="image_tooltip">
 
    </td>
@@ -166,10 +134,6 @@ It’s interesting to see the significant dips and rises in the periods spanning
 <table>
   <tr>
    <td>
-
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 <img src="images/image7.png" width="" alt="alt_text" title="image_tooltip">
 
    </td>
@@ -178,10 +142,6 @@ It’s interesting to see the significant dips and rises in the periods spanning
   </tr>
   <tr>
    <td colspan="2" >
-
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image8.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 <img src="images/image8.png" width="" alt="alt_text" title="image_tooltip">
 
    </td>
@@ -192,10 +152,6 @@ It’s interesting to see the significant dips and rises in the periods spanning
   </tr>
   <tr>
    <td colspan="2" >
-
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image9.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 <img src="images/image9.png" width="" alt="alt_text" title="image_tooltip">
 
    </td>
@@ -208,10 +164,6 @@ It’s interesting to see the significant dips and rises in the periods spanning
 
 
 **THIS REPORT WAS WRITTEN BY: Paul Aughterson**
-
-
-
-<p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image10.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image10.jpg "image_tooltip")
