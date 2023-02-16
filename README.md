@@ -42,13 +42,6 @@ Conversion notes:
 <a href="#gdcalert9">alert9</a>
 <a href="#gdcalert10">alert10</a>
 
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 ![alt_text](images/image1.png "image_tooltip")
 
@@ -59,7 +52,6 @@ Conversion notes:
 
 
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image2.jpg "image_tooltip")
@@ -96,7 +88,6 @@ I am going to create a new dataframe and first capitalise the 'Sport' feature.  
   <tr>
    <td>
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 <img src="images/image3.png" width="" alt="alt_text" title="image_tooltip">
