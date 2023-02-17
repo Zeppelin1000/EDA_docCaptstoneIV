@@ -8,7 +8,7 @@ The report is baed on the data contained in the 'Forbes Richest Atheletes (Forbe
 
 The requirements for this project were that the results be presented as a report so the final presentation is in pdf format.  You can access this by following the link to the pdf file below:
 
-
+https://github.com/Zeppelin1000/EDA_docCaptstoneIV/blob/main/EDA_docCaptstoneIV.pdf
 
 
 
