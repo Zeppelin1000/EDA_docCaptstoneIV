@@ -4,16 +4,11 @@
 
 The following report is a brief data analysis and visualisation on the richest athlettes from 1990 - 2021.
 
-<ins>The Problem</ins>
+The report is baed on the data contained in the 'Forbes Richest Atheletes (Forbes Richest Athletes 1990-2020).csv ' contained in this repository. The graphs and data processing for this analysis was carried out in VSC and the code for this can be found it the 'T36CapstoneProjectIV.ipynb' in this repository.
 
-How many people need to be standing in the same room in order for it to be more likely that 2 people will share a birthday?
+The requirements for this project were that the results be presented as a report so the final report is in pdf format.  You can access this by following the link to the pdf file below:
 
-Most people think the answer to this problem is far greater than it actually is. The actual number for this to be true is ONLY 23.  If 23 people are standing in a room then the probability that at least 2 will share the same birthday is in fact 0.507. i.e greater than a half and odds-on.
 
-Run the Birthday.ipynb file in this respoistory to see a graph of the experimental probability compared with the theoretical probability to see the results.
 
-https://github.com/Zeppelin1000/Birthday-Problem/blob/main/Birthday.ipynb
 
-To see more on this problem, please see https://en.wikipedia.org/wiki/Birthday_problem
 
-Having done a project on the FreeCodecamp involving experimental probability drawing coloured balls from a hat, I was interested to try and apply this in other scenarios.  It is very quick to implement as you will see from the code in Birthday.ipynb.
